@@ -38,7 +38,7 @@ Me ajude a configurar este MCP https://github.com/czlonkowski/n8n-mcp
  
 * Permita as configurações automatizadas até finalizar a configuração
 
-* Para confirmar digite o prompt `gostaria de saber se há algum servidor mcp disponível e qual o diretório esta alocado?`
+* Para confirmar digite o prompt `gostaria de saber se há algum servidor mcp disponível e qual diretório esta alocado?`
 
 * Ou verifique em `Customizations >> Installed`
 
