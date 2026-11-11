@@ -102,5 +102,6 @@ Categories=Utility;
 ```
 
 ```bash
+chmod +x Antigravity.desktop
 sudo cp -a Antigravity.desktop /usr/share/applications/
 ```
