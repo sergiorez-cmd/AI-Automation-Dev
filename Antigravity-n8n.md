@@ -88,15 +88,6 @@ plugins/MCP ou através do Agent Marketplace. Se quiser configurar um novo, é s
 
 ## 8° Criar um Atalho para o Antigravity
 
-Criar um arquivo `antigravity.sh` dentro da pasta Antigravity
-
-```bash
-#!/bin/bash
-
-# Executar Antigravity
-cd /home/seu_user/Antigravity/Antigravity-x64
-./antigravity
-```
 Criar um arquivo Antigravity.desktop e copiar para pasta de aplicações do Debian 13
 ```desktop
 [Desktop Entry]
@@ -104,7 +95,7 @@ Version=1.0
 Type=Application
 Name=Antigravity
 Comment=Executa o Antigravity
-Exec=/home/sergio/Antigravity/antigravity.sh
+Exec=/home/seu_user/Antigravity/Antigravity-x64/antigravity
 Icon=utilities-terminal
 Terminal=true
 Categories=Utility;
